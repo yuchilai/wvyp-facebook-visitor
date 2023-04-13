@@ -5,7 +5,6 @@
 - This project is used the Facebook page source code, looks into the so-called buddy_id, and returns for all visitors. It will return as a table that includes **status, buddy_id, id, _idProfile, name, and profile_picture**. The profile_picture is clickable and will direct you to the user's profile.
 
 
-
 ## Table of Contents
 
 * [Usage](#usage)
@@ -18,8 +17,7 @@
 ## Usage
 
 1. Clone the repository:
-    - [![Copy `git clone` command](https://img.shields.io/badge/-Copy%20Command-blue?style=flat-square&logo=clipboard)](https://github.com/yuchilai/wvyp-facebook-visitor.git)
-  
+    - git clone https://github.com/yuchilai/wvyp-facebook-visitor.git
 
 2. Navigate to the cloned repository:
    - cd repository-name
@@ -45,13 +43,16 @@
 
 1. Then, start from step 4.
 
+
 ## Live Demo
 
 You can view a live demo of the project [here](https://mellow-hamster-3a9cae.netlify.app/).
 
+
 ## Disclaimer
 
 This project is for educational purposes only. Use at your own risk. The creator(s) of this project are not responsible for any damages or misuse of this project.
+
 
 ## Safety
 
